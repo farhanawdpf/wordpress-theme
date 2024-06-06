@@ -69,7 +69,7 @@
           Licensing information: https://bootstrapmade.com/license/
           Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=BizPage
         -->
-        Designed by <a href="https://www.facebook.com/profile.php?id=100087479240551">Mohammad Abdullah-Al-Nahzad</a>
+        Designed by <a href="https://www.facebook.com/profile.php?id=100087479240551">####</a>
       </div>
     </div>
   </footer><!-- #footer -->
